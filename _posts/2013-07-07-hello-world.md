@@ -11,7 +11,9 @@ This is my first pages
 For a list of fruits:
 
 {% highlight ruby %}
-    ['a','b'].map{|x|x.uppercase}
+def show
+@widget = Widget(params[:id])
+  ['a','b'].map{|x|x.uppercase}
 {% endhighlight %}
 
 
