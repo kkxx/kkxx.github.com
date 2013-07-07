@@ -10,11 +10,9 @@ This is my first pages
 
 For a list of fruits:
 
-*Read Apple
-*Purple Grapes
-
-['a','b'].map{|x|x.uppercase}
-
+{% highlight ruby %}
+    ['a','b'].map{|x|x.uppercase}
+{% endhighlight %}
 
 
 
