@@ -1,8 +1,4 @@
-source: .
-destination: ./_site
-plugins: ./_plugins
-layout: ./_layout
-permalink: /:title
-markdown: maruku
-markdown_ext: markdown,mkd,mkdn,md
+name: Your New Jekyll Site
+markdown: redcarpet
 pygments: true
+baseurl: /kkxx
