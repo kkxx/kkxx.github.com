@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Hello World
 ---
 kk blog is open now
